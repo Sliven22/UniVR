@@ -1,0 +1,2 @@
+SELECT DISTINCT sede
+FROM CorsoStudi
