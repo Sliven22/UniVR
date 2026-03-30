@@ -1,1 +1,0 @@
-ALTER TABLE Museo ADD COLUMN sitoInternet VARCHAR(100);
